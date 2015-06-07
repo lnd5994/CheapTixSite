@@ -4,10 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
-    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-}
-
 .image-bg-fluid-height,
 .image-bg-fixed-height {
     text-align: center;
@@ -19,13 +15,13 @@ body {
 
 .image-bg-fluid-height {
 	background: url('../img/cover.jpg') no-repeat center center scroll;
-    padding: 100px 0;
+    padding: 0 0 100px 0;
 }
 
-.image-bg-fixed-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+/*.image-bg-fixed-height {
+	background: url('') no-repeat center center scroll;
     height: 450px;
-}
+}*/
 
 .img-center {
 	margin: 0 auto;
