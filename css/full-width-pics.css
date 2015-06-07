@@ -22,10 +22,10 @@ body {
     padding: 100px 0;
 }
 
-/*.image-bg-fixed-height {
+.image-bg-fixed-height {
 	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
     height: 450px;
-}*/
+}
 
 .img-center {
 	margin: 0 auto;
