@@ -18,6 +18,10 @@
     padding: 0 0 100px 0;
 }
 
+#logo {
+    margin-bottom: 40px;
+}
+
 /*.image-bg-fixed-height {
 	background: url('') no-repeat center center scroll;
     height: 450px;
